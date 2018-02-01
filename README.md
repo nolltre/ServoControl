@@ -1,8 +1,9 @@
 # ServoControl
 
-This is a small program to control a servo motor directly connected to two PWM output signals on the Raspberry Pi Zero W.
+This is a small program to control a couple of servo motors directly connected to two PWM output signals on the Raspberry Pi Zero W.
 
-I am using [Arch Linux ARM](https://archlinuxarm.org/) as my Linux distribution, but I assume that it'll compile under other distributions too.
+I'm using [Arch Linux ARM](https://archlinuxarm.org/) as my Linux distribution, but I assume that it'll compile under other distributions too.
+If you compile for another distribution, feel free to update with instructions.
 
 ### Prerequisites
 1. A couple of servos, possibly with a pan and tilt kit. I bought mine on Ebay ([this kit from ms_graphics](https://www.ebay.co.uk/itm/263327419556)).
@@ -53,8 +54,9 @@ sudo ./servo
 * `h, j, k, l` moves the servo left, up, down and right
 * `s` stops the PWM signal (0% duty cycle)
 * `q` quits the program
+![Screenshot of interface](images/Screenshot.png)
 
-# So how does it look?
+## So how does it look?
 These are just some images showing how your kit might turn out. I removed some of the plastic tabs on the pan & tilt kit and hotglued the official Raspberry Pi Zero case.
 
 |Image|
