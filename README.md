@@ -51,7 +51,7 @@ sudo ./servo
 ```
 
 ## Controls
-* `h, j, k, l` moves the servo left, up, down and right
+* `h, j, k, l` moves the servo left, down, up and right
 * `s` stops the PWM signal (0% duty cycle)
 * `q` quits the program
 ![Screenshot of interface](images/Screenshot.png)

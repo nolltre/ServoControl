@@ -68,7 +68,7 @@ int main (void)
         gpioServo(TILT, tiltVal);
 
         // Print an informational message and go into the character read loop
-        mvprintw(0, 0, "h,j,k,l = moves the servo LEFT, UP, DOWN, RIGHT\ns = stop PWM\nq = quits\n\n");
+        mvprintw(0, 0, "h,j,k,l = moves the servo LEFT, DOWN, UP, RIGHT\ns = stop PWM\nq = quits\n\n");
         while (c != 'q') {
             c = getch();  // Catch one character
             switch(c) {
