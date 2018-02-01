@@ -56,10 +56,12 @@ sudo ./servo
 
 # So how does it look?
 These are just some images showing how your kit might turn out. I removed some of the plastic tabs on the pan & tilt kit and hotglued the official Raspberry Pi Zero case.
-[Image: Back of the finished pan/tilt](/a/raw/b/images/Back.jpg "Back of the finished pan/tilt")
-[Image: Back of the finished pan/tilt](/a/raw/images/Front.jpg "Front of the finished pan/tilt")
-[Image: Capacitors added to even out surges from the servos](/a/raw/b/images/ServoCaps.jpg "Capacitors added to even out surges from the servos")
-[Image: Unmodified back](images/UnmodifiedBack.jpg "Unmodified back")
-[Image: Unmodified left](images/UnmodifiedLeft.jpg "Unmodified left")
-[Image: Unmodified right](images/UnmodifiedRight.jpg "Unmodified right")
-[Image: Unmodified top](images/UnmodifiedTop.jpg "Unmodified top")
+|Image|
+|-----|
+|[Unmodified back](images/UnmodifiedBack.jpg)|
+|[Unmodified left](images/UnmodifiedLeft.jpg)|
+|[Unmodified right](images/UnmodifiedRight.jpg)|
+|[Unmodified top](images/UnmodifiedTop.jpg)|
+|[Back of the finished pan/tilt](images/Back.jpg)|
+|[Front of the finished pan/tilt](images/Front.jpg)|
+|[Capacitors added to even out surges from the servos](images/ServoCaps.jpg)|
